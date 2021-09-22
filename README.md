@@ -7,9 +7,10 @@
 - https://enyorose.github.io/cpnt-260-a1/
 ## My Client
 - Mr. Tepes is the owner of a massive castle in the carpathian mountains and would like to start running tours of his home to get some company.
-## When making the flex boxes
+# My Struggles
+## Difficulties aligning the section on my page
 - I was having a hard time contemplating what containers where effecting what items.
-- I watched some of the videos recommended and started to teach it.
+- I watched some of the videos recommended and started to teach it to other students.
 ### A few things I learned
 - 'display: flex' creates a box around items.
 - by default all flex boxes are in rows
