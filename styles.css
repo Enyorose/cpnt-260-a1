@@ -72,4 +72,7 @@ footer {
   display: flex;
   background-color: #373332;
   color: #94a0aa;
+  align-items: center;
+  gap: 1rem;
+  font-size: 11px;
 }
