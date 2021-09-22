@@ -6,4 +6,4 @@
 - 'display: flex' creates a box around items.
 - by default all flex boxes are in rows
 - 'flex-direction: column' will put the items in a column
-These are a few main components I use to fix my layout problems
+#### These are a few main components I use to fix my layout problems
