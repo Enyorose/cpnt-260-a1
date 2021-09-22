@@ -49,6 +49,11 @@ h2, h1 {
   font-family: 'Amarante', cursive;
 }
 
+h1 {
+font-size: 36px;
+text-align: center;
+}
+
 .image-box {
   width: 100%;
   max-width: 300px;
@@ -61,4 +66,10 @@ h2, h1 {
   flex-direction: column;
   max-width: 50ch;
   font-family: 'Roboto', sans-serif;
+}
+
+footer {
+  display: flex;
+  background-color: #373332;
+  color: #94a0aa;
 }
